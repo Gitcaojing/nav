@@ -1,1 +1,16 @@
-﻿haSiofhaoifh asdfgadgdsgqae
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+	</body>
+	<script type="text/javascript">
+		var c = prompt('请输入第一个数') 
+		var b = prompt('请输入第二个数') 
+		var d = prompt('请输入第三个数') 
+		var a = c,e= b,f=d;
+		(a>e?a:e)>f?alert((a>e?a:e)):alert(f)
+	</script>
+</html>
